@@ -6,4 +6,4 @@ Group membes' email:
 2. Het Shah: hs737@njit.edu
 3. Yosuke Tobe: yjt3@njit.edu
 
-AWS contact person:
+AWS contact person: Het Shah
