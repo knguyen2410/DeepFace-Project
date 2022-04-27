@@ -7,3 +7,5 @@ Group membes' email:
 3. Yosuke Tobe: yjt3@njit.edu
 
 AWS contact person: Het Shah
+
+We cannot submit the basecase notebook due to its large size, but everything is in the report. DeepFace is used for better result in classification.
